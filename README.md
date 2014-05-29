@@ -1,3 +1,6 @@
+# Learn Vim
+Read [Practical Vim](http://pragprog.com/book/dnvim/practical-vim) by Drew Neil. The first chapter alone is worth the money. You'll gain skils you'd wish you'd heard about the first time you used Vim.
+
 <ul>
     <li><a href="http://naleid.com/blog/2010/10/04/vim-movement-shortcuts-wallpaper/">Vim Movement Shortcuts Wallpaper</a></li>
     <li><a href="http://dtsironis.net/posts/how-to-vim/">Vim: from n00b to meh</a></li>
