@@ -38,3 +38,7 @@ Read [Practical Vim](http://pragprog.com/book/dnvim/practical-vim) by Drew Neil.
 [Learn to speak vim - verbs, nouns, and modifiers!](http://yanpritzker.com/2011/12/16/learn-to-speak-vim-verbs-nouns-and-modifiers/)    
 [Vim documentation: help](http://vimdoc.sourceforge.net/htmldoc/help.html)    
 [Solarized VIM README - Ethan Schoonover](http://ethanschoonover.com/solarized/vim-colors-solarized)    
+[Equipping Vim for JavaScript](http://oli.me.uk/2013/06/29/equipping-vim-for-javascript/)    
+[vimdiff – Edit two or Three versions of a file with Vim and show differences](http://www.debianadmin.com/vimdiff-edit-two-or-three-versions-of-a-file-with-vim-and-show-differences.html)    
+[Quick and Dirty : Vimdiff Tutorial](http://amjith.blogspot.com/2008/08/quick-and-dirty-vimdiff-tutorial.html)    
+[Vi and Vim Editor: 12 Powerful Find and Replace Examples](http://www.thegeekstuff.com/2009/04/vi-vim-editor-search-and-replace-examples/)    
