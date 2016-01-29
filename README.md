@@ -1,9 +1,9 @@
 # Learn Vim    
 
-Read [Practical Vim](http://pragprog.com/book/dnvim/practical-vim) by Drew Neil. The first chapter alone is worth the money. You'll gain skils you'd wish you'd heard about the first time you used Vim.    
+Read [Practical Vim](http://pragprog.com/book/dnvim/practical-vim) by Drew Neil. The first chapter alone is worth the money. You'll gain skills you'd wish you'd heard about the first time you used Vim.    
 
 [Vim Movement Shortcuts Wallpaper](http://naleid.com/blog/2010/10/04/vim-movement-shortcuts-wallpaper/)    
-[Vim: from n00b to meh](http://dtsironis.net/posts/how-to-vim/)    
+[Vim: from n00b to meh](http://dtsironis.net/how-to-vim/)    
 [The grammar of Vim | rc3.org](http://rc3.org/2012/05/12/the-grammar-of-vim/)    
 [Learn Vimscript the Hard Way](http://learnvimscriptthehardway.stevelosh.com/)    
 [Vim documentation: quickref](http://vimdoc.sourceforge.net/htmldoc/quickref.html)    
@@ -18,7 +18,7 @@ Read [Practical Vim](http://pragprog.com/book/dnvim/practical-vim) by Drew Neil.
 [Upgrading Vim on OS X](http://prioritized.net/blog/upgrading-vim-on-os-x/)    
 [Using Vim](http://zanshin.net/2011/11/15/using-vim/)    
 [Dr. Bunsen / The Text Triumvirate](http://www.drbunsen.org/the-text-triumvirate/#fnref:4)    
-[Vim Cookbook](http://www.oualline.com/vim-cook.html)    
+[Vim Cookbook](http://www.oualline.com/vim/vim-cook.html)    
 [The Vim Beginners’ Site](http://vim.begin-site.org/)    
 [Interactive Vim tutorial](http://www.openvim.com/tutorial.html)    
 [VIM Adventures - Learn Vim while playing an RPG-style game!](http://vim-adventures.com/)    
@@ -27,14 +27,13 @@ Read [Practical Vim](http://pragprog.com/book/dnvim/practical-vim) by Drew Neil.
 [usevim blog](http://usevim.com/)    
 [Vim Tips Wiki](http://vim.wikia.com/wiki/Vim_Tips_Wiki)    
 [Configuring Vim right](http://items.sjbach.com/319/configuring-vim-right)    
-[Vim - walking without crutches](http://walking-without-crutches.heroku.com/#1)    
-[Vim Tutorial Videos - Derek Wyatt's Blog](http://www.derekwyatt.org/vim/vim-tutorial-videos/)    
+[Vim - walking without crutches](https://github.com/nelstrom/vim-walking-without-crutches)    
+[Vim Tutorial Videos - Derek Wyatt's Blog](derekwyatt.org/vim/tutorials)    
 [Everyone Who Tried to Convince Me to use Vim was Wrong](http://yehudakatz.com/2010/07/29/everyone-who-tried-to-convince-me-to-use-vim-was-wrong/)    
-[Vim Cheat Sheet](http://walking-without-crutches.heroku.com/image/images/vi-vim-cheat-sheet.png)    
-[Vim: Table of Contents](http://www.swaroopch.org/notes/Vim_en:Table_of_Contents)    
+[Vim Cheat Sheet](http://vim.rtorr.com/)    
 [Vim Recipes - Free cookbook for the Vim text editor](http://vim.runpaint.org/)    
 [vi | devdaily.com](http://www.devdaily.com/taxonomy/term/3013)    
-[trail-map/trails/vim.md at master · thoughtbot/trail-map](https://github.com/thoughtbot/trail-map/blob/master/trails/vim.md)    
+[trail-map/trails/vim.md at master · thoughtbot/trail-map](https://github.com/thoughtbot/trail-map/blob/master/vim.md)    
 [Learn to speak vim - verbs, nouns, and modifiers!](http://yanpritzker.com/2011/12/16/learn-to-speak-vim-verbs-nouns-and-modifiers/)    
 [Vim documentation: help](http://vimdoc.sourceforge.net/htmldoc/help.html)    
 [Solarized VIM README - Ethan Schoonover](http://ethanschoonover.com/solarized/vim-colors-solarized)    
