@@ -41,3 +41,4 @@ Read [Practical Vim](http://pragprog.com/book/dnvim/practical-vim) by Drew Neil.
 [vimdiff – Edit two or Three versions of a file with Vim and show differences](http://www.debianadmin.com/vimdiff-edit-two-or-three-versions-of-a-file-with-vim-and-show-differences.html)    
 [Quick and Dirty : Vimdiff Tutorial](http://amjith.blogspot.com/2008/08/quick-and-dirty-vimdiff-tutorial.html)    
 [Vi and Vim Editor: 12 Powerful Find and Replace Examples](http://www.thegeekstuff.com/2009/04/vi-vim-editor-search-and-replace-examples/)    
+[VimTricks: Vim Tips and Tricks email newsletter and blog](https://vimtricks.com)
